@@ -7,3 +7,6 @@
 
 #Problem 3#
   puts "This is the result of 45628 multiplied by 7839: #{45628 * 7839}"
+
+#Problem 4: I believe the value of the following expression will be true#
+  puts (10 < 20 && 30 < 20) || !(10 == 11)
